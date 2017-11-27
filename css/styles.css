@@ -1,0 +1,35 @@
+h1 {
+  color: white;
+  text-align: center;
+
+}
+a {
+  color: red;
+}
+body{
+  background-color: #7776BE;
+}
+.head {
+  float: left;
+  width: 30%;
+  margin-left: 100px;
+}
+.project{
+  width: 30%;
+  float: right;
+ margin-right: 100px;
+}
+.more {
+  font-family: fantasy;
+  border: 1px solid black;
+  margin-left: 50px;
+}
+.fb {
+margin-left: 100px;
+width: 20%;
+float: left;
+}
+.tsup{
+  margin-right: 100px;
+  float: right;
+}
